@@ -4,6 +4,7 @@
 .badge-pet {
     display: inline-block;
     background-color: #EED7C5;
+    border-radius: 8px;
     padding: 24px;
 }
 
