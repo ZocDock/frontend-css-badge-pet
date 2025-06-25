@@ -6,6 +6,7 @@
     background-color: #EED7C5;
     border-radius: 8px;
     padding: 24px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
 }
 
 .name-pet {
