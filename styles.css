@@ -1,4 +1,9 @@
 
 .badge-pet {
     display: inline-block;
+    background-color: #EED7C5;
+}
+
+h2 {
+    color: #A96D61;
 }
